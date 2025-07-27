@@ -3,7 +3,7 @@
 Plugin Name: Blog Task Manager
 Description: Permite crear tareas para organizar la creación de entradas del blog.
 Version: 1.0
-Author: Codex Agent
+Author: Codex Agent % The CreActives
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
